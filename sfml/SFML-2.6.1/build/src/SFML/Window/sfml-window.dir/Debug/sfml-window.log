@@ -1,0 +1,32 @@
+﻿  Building Custom Rule C:/Users/Administrator/Downloads/SFML-2.6.1-sources/SFML-2.6.1/src/SFML/Window/CMakeLists.txt
+  Clipboard.cpp
+  Context.cpp
+  Cursor.cpp
+  GlContext.cpp
+  GlResource.cpp
+  Joystick.cpp
+  JoystickManager.cpp
+  Keyboard.cpp
+  Mouse.cpp
+  Touch.cpp
+  Sensor.cpp
+  SensorManager.cpp
+  VideoMode.cpp
+  Vulkan.cpp
+  Window.cpp
+  WindowBase.cpp
+  WindowImpl.cpp
+  CursorImpl.cpp
+  ClipboardImpl.cpp
+  InputImpl.cpp
+  Generating Code...
+  Compiling...
+  JoystickImpl.cpp
+  SensorImpl.cpp
+  VideoModeImpl.cpp
+  VulkanImplWin32.cpp
+  WindowImplWin32.cpp
+  WglContext.cpp
+  Generating Code...
+     Creating library C:/Users/Administrator/Downloads/SFML-2.6.1-sources/SFML-2.6.1/build/lib/Debug/sfml-window-d.lib and object C:/Users/Administrator/Downloads/SFML-2.6.1-sources/SFML-2.6.1/build/lib/Debug/sfml-window-d.exp
+  sfml-window.vcxproj -> C:\Users\Administrator\Downloads\SFML-2.6.1-sources\SFML-2.6.1\build\lib\Debug\sfml-window-d-2.dll

@@ -1,0 +1,5 @@
+﻿  GameplayScreen.cpp
+C:\Users\Administrator\source\repos\Tulsi_01\GameplayScreen.cpp(437): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Administrator\source\repos\Tulsi_01\GameplayScreen.cpp(438): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Administrator\source\repos\Tulsi_01\GameplayScreen.cpp(439): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Tulsi_01.vcxproj -> C:\Users\Administrator\source\repos\Tulsi_01\x64\Debug\Tulsi_01.exe
